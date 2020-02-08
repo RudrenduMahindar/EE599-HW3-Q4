@@ -1,0 +1,2 @@
+# EE599-HW3-Q4
+Given an expression string, find if the input has valid brackets (i.e. { } or [ ] or ( ) ). An input expression is valid if: ● Open brackets are closed by the same type of brackets. ● Open brackets must be closed in the correct order. ● An empty string is also considered valid. You should only check for the validity of brackets based on the above rules, i.e. ‘(‘, ‘)’, ‘[‘, ‘]’, ‘{‘, ‘}’, not the rest of the expression.
